@@ -1,6 +1,6 @@
 ## Project Overview
 
-Customer churn—the rate at which customers discontinue their relationship with a business—is a critical metric that directly impacts long-term profitability and sustainability. In today's competitive market landscape, retaining existing customers is often more cost-effective and beneficial than acquiring new ones. High churn rates can signal underlying issues in customer satisfaction, service quality, pricing models, or product value, and failing to address them can significantly affect a company’s bottom line.
+Customer churn: the rate at which customers discontinue their relationship with a business, is a critical metric that directly impacts long-term profitability and sustainability. In today's competitive market landscape, retaining existing customers is often more cost-effective and beneficial than acquiring new ones. High churn rates can signal underlying issues in customer satisfaction, service quality, pricing models, or product value, and failing to address them can significantly affect a company’s bottom line.
 
 This project aims to tackle the challenge of customer attrition by leveraging data-driven approaches to build a predictive model capable of identifying customers who are at risk of churning. By analyzing historical customer data—spanning demographics, transactional behavior, website interactions, service usage, and feedback—the model can detect patterns and early warning signs that correlate with churn behavior.
 
